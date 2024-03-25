@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<center>
+<head>
+    <title>
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dapibus orci quis viverra luctus.
+    </title>
+    <h1>
+        <strong><u>Mauris volutpat dui nibh, a semper libero pharetra nec</u></strong>
+    </h1>
+    <h3>
+        Nunc pretium nisl sit amet leo dapibus pharetra. Vivamus ut eros purus. Suspendisse ipsum libero, iaculis 
+        eget efficitur sed, consequat nec purus. Maecenas nec hendrerit nulla. Duis maximus lectus non ullamcorper vestibulum. Proin a augue condimentum, condimentum nisi non, ultrices justo.
+    </h3>
+</head>
+<body>
+   <p>Suspendisse efficitur eget ante quis porta. Maecenas elementum est eget la
+    cus rhoncus ultricies. <em>Praesent tristique blandit ex vitae hendrerit.</em>
+    Sed accumsan, lorem ut cursus cursus, nibh risus ullamcorper tortor, non
+    consectetur purus metus non nisi. Proin consectetur est turpis, quis egestas mauris
+    feugiat eget. Fusce eu ex at lorem convallis pharetra et id lacus. Nunc
+    accumsan, sem eu efficitur aliquet, turpis ante vehicula augue, at tincidunt dui urna id libero. Quisque a neque luctus, sagittis dui at, faucibus orci. Sed a libero sed lacus iaculis dapibus.</p>
+     </center>
+
+     <p>Nunc sit amet elementum tellus. Nam dictum nec nisl vel aliquam. Mauris eget erat sit amet dolor lobortis semper in ac ligula. Curabitur a erat
+        sollicitudin mi fringilla molestie et ornare arcu. Sed non enim ut ipsum fermentum semper. Nam laoreet tortor nec magna ornare porttitor. Nullam mollis tristique
+        erat, quis interdum nisi rhoncus vitae.<s>Aliquam porttitor in magna sit amet sodales</s> . <sup>Vivamus rutrum, lorem sed finibus ultricies</sup>, dolor est
+        congue erat, venenatis commodo urna ante vitae eros. Etiam suscipit felis felis, sit amet hendrerit velit eleifend nec. Aliquam erat volutpat. Nulla ut 
+        lorem convallis, sagittis ante vel, tristique turpis. Curabitur gravida nibh sit amet felis porttitor, eu sagittis justo egestas. Mauris ultricies sem ac
+        iaculis bibendum. Quisque porttitor, massa vel placerat facilisis, tellus neque pretium turpis, vitae vestibulum risus velit maximus arcu. Vestibulum nec risus at urna
+        ultricies mattis.
+    </p>
+</body>
+
+</html>
